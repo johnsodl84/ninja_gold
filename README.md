@@ -6,4 +6,4 @@ The ninja can go to different places (farm, cave, house, casino) and earn differ
 
 However, at the casino, your ninja can earn or lose up to 50 gold. 😩
 
-Each activity the ninja does it diplayed!
+Each activity the ninja does is diplayed!
